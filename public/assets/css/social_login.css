@@ -1,0 +1,35 @@
+.skt-lg-social_container1{margin-top: 10px;}
+.skt-lg-social_container1 a.app_icons{margin: 0px 5px;min-width: 40px;min-height: 40px;text-decoration:none;font-weight:bold;cursor:pointer;display:flex;justify-content:center;align-items:center;padding:8px;box-shadow:none;}
+.skt-lg-social_container1 .app_icons span.provider_name{display: none !important;margin-left:10px;}
+.skt-lg-social_container1 .clickme_google{background-color:#ea4335;color:#fff !important;}
+.skt-lg-social_container1 .clickme_face{margin-right: 10px;background-color:#1877f2;color:#fff !important;}
+.skt-lg-social_container1 .clickme_twitter{margin-right: 10px;background-color:#1da1f2;color:#fff !important;}
+.skt-lg-social_container1 .clickme_linkedIn{background-color: #277bb5;color: #fff !important;}
+.skt-lg-social_container1 .clickme_amazon{background-color: #f1992e;color: #fff !important;}
+.skt-lg-social_container1 .clickme_yahoo{background-color: #784a9f;color: #fff !important;}
+.skt-lg-social_container1 .clickme_vkontakte{background-color: #5181b8;color: #fff !important;}
+.skt-lg-social_container1 .clickme_spotify{background-color: #7ada63;color: #fff !important;}
+.skt-lg-social_container1 .clickme_paypal{background-color: #009cde;color: #fff !important;}
+.skt-lg-social_container1 .clickme_discord{background-color: #7289da;color: #fff !important;}
+.skt-lg-social_container1 .clickme_foursquare{background-color: #f94877;color: #fff !important;}
+.skt-lg-social_container1 .clickme_disqus{background-color: #2e9fff;color: #fff !important;}
+.skt-lg-social_container1 .clickme_microsoft{background-color: #0cb3ed;color: #fff !important;}
+.skt-lg-social_container1 .clickme_dribbble{background-color: #ea4c89;color: #fff !important;}
+.skt-lg-social_container1 .clickme_wordpress{background-color: #21759b;color: #fff !important;}
+.skt-lg-social_container1 .clickme_twitchTV{background-color: #9146ff;color: #fff !important;}
+.skt-lg-social_container1 .clickme_yandex{background-color: #ffcc00;color: #fff !important;}
+.skt-lg-social_container1 .clickme_github{background-color: #333;color: #fff !important;}
+.skt-lg-social_container1 .clickme_apple{background-color: #333;color: #fff !important;}
+.skt-lg-social_container1 .clickme_kakao{background-color: #fbb034;color: #fff !important;}
+.skt-lg-social_container1 .lg_magicLink{background-color: #ab5f53;color: #fff !important;}
+h1.skt-lg-sociallogin_setions1{font-size: 20px;display: flex;flex-direction: row;width: 100%;padding:0 33px;}
+h1.skt-lg-sociallogin_setions1:before{content: "";flex: 1 1;border-bottom: 1px solid;margin: auto;margin-right: 5px;color: #a5b1a5;}
+h1.skt-lg-sociallogin_setions1:after{content: "";flex: 1 1;border-bottom: 1px solid;margin: auto;margin-left: 5px;color: #a5b1a5;}
+h1.skt-lg-sociallogin_setions{font-size: 20px;display: flex;flex-direction: row;width: 100%;padding:0 33px;}
+h1.skt-lg-sociallogin_setions:before{content: "";flex: 1 1;border-bottom: 1px solid;margin: auto;margin-right: 5px;color: #a5b1a5;}
+h1.skt-lg-sociallogin_setions:after{content: "";flex: 1 1;border-bottom: 1px solid;margin: auto;margin-left: 5px;color: #a5b1a5;}
+.skt-lg-whiteLableText{font-size: 11px;padding: 3px 10px;text-align:center;}
+@media only screen and (min-width: 600px) {.skt-lg-social_container1 {max-width: 500px !important;margin: auto;}}
+.PageContent.PageContent--fitScreen.PageContent--extraNarrow { flex-wrap: wrap;}
+.skt-lg-social_container1>div { display: inline-block; margin: 5px 0px;}
+#skt-lg-overlay1{position:fixed;top:0; bottom:0;z-index:100;width:100%;height:100%;background:rgba(255,255,255,1)}.cv-spinner{height:100%;display:flex;justify-content:center;align-items:center}.spinner{width:40px;height:40px;border:4px #ddd solid;border-top:4px #2e93e6 solid;border-radius:50%;animation:sp-anime .8s infinite linear}@keyframes sp-anime{100%{transform:rotate(360deg)}}.is-hide{display:none}
